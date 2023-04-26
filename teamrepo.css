@@ -1,9 +1,53 @@
-h1{
-    color: palegreen;
+.team1{
+ position: absolute;
+width: 37px;
+height: 45px;
+left: 166px;
+top: 99px;
 }
-h2{
-    color: blue;
+.team2>img{
+position: absolute;
+width: 105px;
+height: 53px;
+left: 50.14px;
+top: 10px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 52px;
+color: #58A9A5;
 }
-h3{
-    color: green;
+.team3>p{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 300px;
+    top: 1px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    color: #58A9A5;    
+}
+#team4{
+    position: absolute;
+    width: 48px;
+    height: 6px;
+    left: 305px;
+    top: 50px;
+    background: #FEC62D;
+    border-radius: 21px;
+}
+#team5{
+position: absolute;
+width: 102px;
+height: 38px;
+left: 450px;
+top: 1px;
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+color: #404242;
 }
